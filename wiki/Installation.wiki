@@ -20,6 +20,8 @@ If you are not sure, choose the VS2003, it offers exactly the same features and 
 
 *2. Save the zip file in a temporary directory and open it with Total Commander.*
 
+http://code.google.com/p/t-pot/wiki/Installation/images/Inst_01.png
+
 *3. Total Commander will recognize a self-installable plug-in and ask whether you want to install it or not.*
 
 Simply click Yes.
