@@ -87,6 +87,10 @@ Enter the [T-PoT] directory by selecting it with the arrow keys and pressing Ent
 
   http://scythal.googlepages.com/Inst_08.png
 
+Note that the last screenshot above shows what you should see on a jailbroken iPod. In its original configuration, you will have the /var/root/Media as root directory and won't be able to see the whole file system.
+
 That's it, you're in the iPod, congratulations!
 
-Note that the last screenshot above shows what you should see on a jailbroken iPod. In its original configuration, you will have the /var/root/Media as root directory and won't be able to see the whole file system.
+=Next Step=
+
+[UserGuide Using T-PoT].
