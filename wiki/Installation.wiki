@@ -5,7 +5,7 @@
 
   * T-PoT is a plug-in for Total Commander, which only runs on *Windows*. It has been tested with Windows XP Home SP2 and Windows XP Professional SP2, but there is no reason it shouldn't work with Vista, the only issue probably being the next requirement.
 
-  * *Total Commander*. It was mainly tested with version 7.02a, but it should be back-compatible with version 6. You can download it from [http://www.ghisler.com/ Total Commander home page], it's a 30-day trial but really worth the buy - even without the T-PoT plug-in ;)
+  * *Total Commander*. It was mainly tested with version 7.02a, but it should be back-compatible with version 6. You can download it from [http://www.ghisler.com/ Total Commander home page], it's a 30-day trial but really worth the buy - even without the T-PoT plug-in ;-)
 
   * *iTunes* 7.4 or later, that you can download from [http://www.apple.com/itunes/download/ the iTunes download page].
 
