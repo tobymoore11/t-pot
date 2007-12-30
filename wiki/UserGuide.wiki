@@ -1,0 +1,5 @@
+=Using the T-PoT Plug-in=
+
+If you are not familiar with Total Commander, the best is probably for you to get the knack of it by visiting the [http://www.ghisler.com/beginners.htm website tutorial].
+
+*Make sure to know the basics before transferring files to/from your iPod!* Certain files and directories are quite important and you could render your device inoperable by erasing or overwriting the wrong one.
