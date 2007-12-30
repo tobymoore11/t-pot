@@ -14,8 +14,8 @@
 *1. Download the latest version of the T-PoT plug-in*
 
 You can get it from [http://code.google.com/p/t-pot/downloads/list this page]. There are two versions:
-  * one compiled with Visual Studio 2005 and which requires Microsoft .NET Framework Version 2.0.
-  * one compiled with Visual Studio 2003 that only requires msvcp71.dll and msvcr71.dll (which I put on the download page as [http://t-pot.googlecode.com/files/Libs2003.zip Libs2003.zip].
+  * one compiled with Visual Studio 2005 and which requires [http://www.microsoft.com/downloads/details.aspx?FamilyID=0856EACB-4362-4B0D-8EDD-AAB15C5E04F5&displaylang=en Microsoft .NET Framework Version 2.0].
+  * one compiled with Visual Studio 2003 that only requires msvcp71.dll and msvcr71.dll (which I put on the download page as [http://t-pot.googlecode.com/files/Libs2003.zip Libs2003.zip]. You can copy those files into C:\Windows\System32.
 
 If you are not sure, choose the VS2003, it offers exactly the same features and the libraries are easier to get than the other version. Most up-to-date Windows systems should have the necessary libraries for the VS2005 version though.
 
